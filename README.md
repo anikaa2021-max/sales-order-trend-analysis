@@ -11,7 +11,7 @@ The analysis was conducted using SQL for data preparation, Python for validation
 
 ## Tools & Technologies
 - SQL (data cleaning, aggregation)
-- Python (pandas, matplotlib)
+- Python 3.x (pandas, matplotlib)
 - Tableau (dashboarding & visualization)
 
 ## Key Analysis Steps
